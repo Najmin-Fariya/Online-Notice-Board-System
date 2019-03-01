@@ -1,0 +1,46 @@
+ .a{
+	background-color:#0066cc;
+	font-family:Adamina;
+	color:white;
+	width:100%;
+}
+
+.clear{
+	clear:left;
+}
+h1{
+	font-size:35px;
+	text-align:center;
+}
+.logotext-float{
+	font-size:25px;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+.my-nav{
+	z-index:999;
+	opacity:.8;
+	background:none;
+	border:0;
+	position:absolute;
+	border-radius:0;
+}
+.my-nav .navbar-nav a{
+	color:#000066 !important;
+	text-decoration:border-bottom;
+}
+.my-nav .navbar-nav a:hover{
+	background-color#33cccc;
+}
+.dean{
+	height:auto;
+	width:400px;
+
+}
+.chairman{
+	height:auto;
+	width:400px;
+
+}
+
+
+

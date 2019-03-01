@@ -1,0 +1,72 @@
+.my-slider{
+	width:100%;
+	margin-top:-20px;
+}
+marquee{
+	color:white; 
+	font-size:30px;
+}
+
+.a{
+	padding:5px;
+	background-color:#0066cc;
+	font-family:Adamina;
+	color:white;
+	
+	width:100%;
+}
+.logo{
+	float:left;
+
+	margin:2px 10px 0px 2px;
+}
+.clear{
+	clear:left;
+}
+h1{
+	font-size:65px;
+	text-align:center;
+}
+.logotext-float{
+	font-size:35px;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+.logotext-float span{
+	font-size:28px;
+	
+}
+.my-nav{
+	
+	z-index:999;
+	opacity:.8;
+	background:none;
+	border:0;
+	position:absolute;
+	border-radius:0;
+}
+.my-nav .navbar-nav a{
+	color:#000066 !important;
+	text-decoration:border-bottom;
+}
+.my-nav .navbar-nav a:hover{
+	background-color#33cccc;
+}
+.dean{
+	height:auto;
+	width:300px;
+	margin-left:20px;
+	-moz-box-shadow:10px 10px 5px #000000;
+-webkit-box-shadow:10px 10px 5px #000000;
+box-shadow:10px 10px 5px #000000;
+}
+.chairman{
+	height:auto;
+	width:300px;
+	margin-left:20px;
+	-moz-box-shadow:10px 10px 5px #000000;
+-webkit-box-shadow:10px 10px 5px #000000;
+box-shadow:10px 10px 5px #000000;
+}
+
+
+
